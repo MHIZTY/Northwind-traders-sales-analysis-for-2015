@@ -38,13 +38,15 @@ To fortify the quantity and reliability of the dataset these are the steps taken
 The data underwent a thorough cleaning and organization process using Power Query. This involved the removal of unnecessary columns, addressing duplicates, and efforts were made to manage blank or incomplete data entries.
 
 ## REPORT BUILDING DASHBOARD
-![](https://github.com/MHIZTY/Northwind-traders-sales-analysis-for-2015/blob/main/MY%20IMAGE%201.PNG)
+![](https://github.com/MHIZTY/Northwind-traders-sales-analysis-for-2015/blob/main/REPORT%20BUILDING(C).PNG)
+
 
 1.Revenue trend by categories: The analysis uncovered a notable consumer inclination towards the purchased item.
 ![](https://github.com/MHIZTY/Northwind-traders-sales-analysis-for-2015/blob/main/TREND%20BY%20CATEGORY.PNG)
 
+
 2.Revenue by product: This includes the preferred products, with "Uncle Bob's Organic Dried Pears," Tourtiere, and Thuringer Robtwurst emerging as the top performers, each garnering purchases exceeding $500.00.
-![](https://github.com/MHIZTY/Northwind-traders-sales-analysis-for-2015/blob/main/REVENUE%20BY%20PRODUCT.PNG)
+![](https://github.com/MHIZTY/Northwind-traders-sales-analysis-for-2015/blob/main/Capture%201.PNG)
 
 3.Order by country: The analysis of customer preferences emphasized 'France' as the most sought-after country, with 478 order IDs, followed by 'UK' and 'Itatly'
 
@@ -52,11 +54,11 @@ The data underwent a thorough cleaning and organization process using Power Quer
 
 4,Order by customer:This shows us that 'TORTU' is the most ordered
 
-![](https://github.com/MHIZTY/Northwind-traders-sales-analysis-for-2015/blob/main/ORDER%20BY%20CUSTOMER.PNG)
+![](https://github.com/MHIZTY/Northwind-traders-sales-analysis-for-2015/blob/main/CUSTOMER.PNG)
 
 5.Order by city:This charts tells us that 'STRASBOURG','STUTTGART' and 'TOULOUSE' are the most ordered from the city
 
-![](https://github.com/MHIZTY/Northwind-traders-sales-analysis-for-2015/blob/main/ORDER%20BY%20CITY.PNG)
+![](https://github.com/MHIZTY/Northwind-traders-sales-analysis-for-2015/blob/main/CITY.PNG)
 
 ## BASED ON REPORT BIUILDINGS, HERE ARE THE ACTIONS AND RECOMMENDATIONS 
 When demand is already high in certain locations, promoting a business becomes more about sustaining and optimizing that demand rather than generating new interest. Here are some strategies to consider:
